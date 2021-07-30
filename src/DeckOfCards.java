@@ -1,7 +1,7 @@
 import java.util.ArrayList;
 
 /**
- *  Deck Of Cards class
+ *  Deck Of Cards class.
  */
 public class DeckOfCards {
     public static ArrayList<Card> buildDeckOfCards(ArrayList<Card> deckOfCards){
